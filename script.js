@@ -23,7 +23,7 @@ xhr.onload = function() {
         console.log("Some error occured")
     }
 }
-
+     
 xhr.send(xhr)
 
 let news = `
