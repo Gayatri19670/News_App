@@ -22,7 +22,7 @@ xhr.onload = function() {
     } else {
         console.log("Some error occured")
     }
-}
+}    
      
 xhr.send(xhr)
 
