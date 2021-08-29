@@ -40,4 +40,4 @@ let news = `
         <code>.accordion-body</code>, though the transition does limit overflow.
     </div>
 </div>
-</div>`
+</div>`    
