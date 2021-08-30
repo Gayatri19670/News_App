@@ -1,6 +1,6 @@
 console.log("This is my index js file");
 
-// Initialize the news api parameters
+// Initialize the news api parameters sa
 let source = 'the-times-of-india';
 let apiKey = 'd093053d72bc40248998159804e0e67d'
 
