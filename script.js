@@ -2,8 +2,6 @@ console.log("News App");
 // 3a9a87515b2e4b6085bcaffc175de637
 
 
-
-
 // https://newsapi.org/v2/top-headlines?sources=bbc-news&apiKey=3a9a87515b2e4b6085bcaffc175de637
 
 // Initialise news parameter
